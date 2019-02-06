@@ -1,0 +1,15 @@
+{
+  "name": "@seejonlee/npm-cli",
+  "version": "1.0.0",
+  "description": "A sample npm cli tool.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jon Lee",
+  "license": "ISC",
+  "bin": "bin/cli.js",
+  "dependencies": {
+    "shelljs": "^0.8.3"
+  }
+}
